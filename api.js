@@ -27,6 +27,7 @@ function loadImages(query) {
                         <p class="card-text">ID immagine: <strong>${photo.id}</strong></p>
                         <a href="${photo.url}" target="_blank" class="btn btn-success">Vedi su Pexels</a>
                         <button class="btn btn-danger hide-btn">Hide</button>
+                        <small> 9 mins <small>
                     </div>
                 </div>
             `;
